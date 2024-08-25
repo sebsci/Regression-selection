@@ -4,4 +4,5 @@ AT: Ambient Temperature
 AP: Ambient Pressure
 RH: Relative Humidity
 V: Exhaust Vacuum
+
 The goal is to use these ambient variables to predict the continuous target variable EP, which represents the net hourly electrical energy output of the power plant. By analyzing the relationships between these environmental factors and the plant's energy output, the project aims to build a predictive model that can accurately estimate the plant’s performance under varying conditions. This model could potentially be used to optimize plant operations, improve energy efficiency, and contribute to better resource management in power generation
